@@ -9,12 +9,10 @@ public class CleaningState : State
     [SerializeField] NavMeshAgent agent = null;
     [SerializeField] GameObject currentTarget = null;
     [SerializeField] LayerMask layerToDetect;
-    [SerializeField] int test = 0;
-    [SerializeField] Spot spot = null;
+    [SerializeField] bool canNextState = false;
 
-
-
-    public LayerMask LayerToDetect { get { return layerToDetect; }  set { layerToDetect = value; } }
+    public bool CanNextState => canNextState;
+    public LayerMask LayerToDetect { get { return layerToDetect; } set { layerToDetect = value; } }
     public CleaningState(GameObject _owner) : base(_owner)
     {
         owner = _owner;
@@ -25,15 +23,17 @@ public class CleaningState : State
     {
         Debug.Log("Entering Cleaning State");
         agent = GameObject.FindAnyObjectByType<NavMeshAgent>();
+        layerToDetect = 1 << LayerMask.NameToLayer("Spot");
+        FindFirstObjectWithLayer();
     }
 
 
     public override void Update()
     {
-        Debug.Log("Update Cleaning State");
+        // Debug.Log("Update Cleaning State");
         if (!agent)
         {
-        Debug.Log("Nop agent !");
+            Debug.Log("Nop agent !");
             return;
         }
         if (!currentTarget)
@@ -55,19 +55,21 @@ public class CleaningState : State
         return Vector3.Distance(agent.transform.position, currentTarget.transform.position) < 0.5f;
     }
 
-    GameObject FindFirstObjectWithLayer()
+    public GameObject FindFirstObjectWithLayer()
     {
         GameObject[] _allObjects = GameObject.FindObjectsByType<GameObject>(FindObjectsSortMode.None);
         foreach (GameObject obj in _allObjects)
         {
-            Debug.Log($"First layer => {LayerMask.LayerToName(layerToDetect)} \n Second Layer {LayerMask.LayerToName(obj.layer)}");
+            // Debug.Log($"First layer => {LayerMask.LayerToName(layerToDetect)} \n Second Layer {LayerMask.LayerToName(obj.layer)}");
             if ((layerToDetect.value & (1 << obj.layer)) != 0)
             {
                 Debug.Log("Trouvé !");
                 currentTarget = obj;
+                canNextState = false;
                 return obj;
             }
         }
+        canNextState = true;
         return null;
     }
 
