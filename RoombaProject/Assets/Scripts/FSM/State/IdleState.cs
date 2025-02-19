@@ -11,6 +11,13 @@ public class IdleState : State
     }
 
     public override void Update() 
+<<<<<<< HEAD
+=======
+    {
+        
+    }
+    public override void Exit()
+>>>>>>> Josua
     {
         
     }

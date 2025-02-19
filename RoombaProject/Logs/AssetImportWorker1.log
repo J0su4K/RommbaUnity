@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2023.2/staging' branch; Version is '2023.2.20f1 (0e25a174756c) revision 927137'; Using compiler version '193431935'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'fr' Physical Memory: 32687 MB
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 32688 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,19 +11,23 @@ C:\Program Files\Unity\Hub\Editor\2023.2.20f1\Editor\Unity.exe
 -name
 AssetImportWorker1
 -projectPath
-D:/Julio/Github/Unity/RommbaUnity/RoombaProject
+D:/Josua/UnityProjects/RoombaUnity/RoombaProject
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
+<<<<<<< HEAD
 54319
+=======
+55063
+>>>>>>> Josua
 -job-worker-count
 3
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
-Successfully changed project path to: D:/Julio/Github/Unity/RommbaUnity/RoombaProject
-D:/Julio/Github/Unity/RommbaUnity/RoombaProject
+Successfully changed project path to: D:/Josua/UnityProjects/RoombaUnity/RoombaProject
+D:/Josua/UnityProjects/RoombaUnity/RoombaProject
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -58,16 +62,25 @@ D:/Julio/Github/Unity/RommbaUnity/RoombaProject
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [22068] Host "[IP] 192.168.10.31 [Port] 0 [Flags] 2 [Guid] 2238353582 [EditorId] 2238353582 [Version] 1048832 [Id] WindowsEditor(7,Poste-P31) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 Player connection [22068] Host "[IP] 192.168.10.31 [Port] 0 [Flags] 2 [Guid] 2238353582 [EditorId] 2238353582 [Version] 1048832 [Id] WindowsEditor(7,Poste-P31) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 3
 [Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
 Library Redirect Path: Library/
 Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
+=======
+Player connection [14860] Host "[IP] 192.168.10.11 [Port] 0 [Flags] 2 [Guid] 1359365413 [EditorId] 1359365413 [Version] 1048832 [Id] WindowsEditor(7,Poste-P11) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [14860] Host "[IP] 192.168.10.11 [Port] 0 [Flags] 2 [Guid] 1359365413 [EditorId] 1359365413 [Version] 1048832 [Id] WindowsEditor(7,Poste-P11) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+[Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+>>>>>>> Josua
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2023.2.20f1 (0e25a174756c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Julio/Github/Unity/RommbaUnity/RoombaProject/Assets
+[Subsystems] Discovering subsystems at path D:/Josua/UnityProjects/RoombaUnity/RoombaProject/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -79,12 +92,17 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+>>>>>>> Josua
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+<<<<<<< HEAD
 Registered in 0.005596 seconds.
 - Loaded All Assemblies, in  0.616 seconds
 Native extension for Android target not found
@@ -95,11 +113,24 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  1.255 seconds
 Domain Reload Profiling: 1870ms
 	BeginReloadAssembly (194ms)
+=======
+Registered in 0.006569 seconds.
+- Loaded All Assemblies, in  0.592 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 346 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.962 seconds
+Domain Reload Profiling: 1552ms
+	BeginReloadAssembly (186ms)
+>>>>>>> Josua
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 	RebuildCommonClasses (58ms)
 	RebuildNativeTypeToScriptingClass (20ms)
 	initialDomainReloadingComplete (70ms)
@@ -121,6 +152,29 @@ Domain Reload Profiling: 1870ms
 			BeforeProcessingInitializeOnLoad (7ms)
 			ProcessInitializeOnLoadAttributes (329ms)
 			ProcessInitializeOnLoadMethodAttributes (126ms)
+=======
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (74ms)
+	LoadAllAssembliesAndSetupDomain (253ms)
+		LoadAssemblies (184ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (250ms)
+			TypeCache.Refresh (248ms)
+				TypeCache.ScanAssembly (226ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (963ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (876ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (514ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (255ms)
+			ProcessInitializeOnLoadMethodAttributes (93ms)
+>>>>>>> Josua
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -129,14 +183,22 @@ Domain Reload Profiling: 1870ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in  1.781 seconds
 Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+=======
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.246 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+>>>>>>> Josua
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Finished resetting the current domain, in  1.386 seconds
 Domain Reload Profiling: 3162ms
 	BeginReloadAssembly (652ms)
@@ -1769,18 +1831,101 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 3251 unused Assets / (0.9 MB). Loaded Objects now: 3831.
 Memory consumption went from 103.1 MB to 102.1 MB.
 Total: 12.775500 ms (FindLiveObjects: 0.594000 ms CreateObjectMapping: 0.685700 ms MarkObjects: 9.988200 ms  DeleteObjects: 1.506400 ms)
+=======
+- Finished resetting the current domain, in  1.006 seconds
+Domain Reload Profiling: 2249ms
+	BeginReloadAssembly (524ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (590ms)
+		LoadAssemblies (384ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (355ms)
+			TypeCache.Refresh (317ms)
+				TypeCache.ScanAssembly (291ms)
+			BuildScriptInfoCaches (27ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1007ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (629ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (58ms)
+			ProcessInitializeOnLoadAttributes (489ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3252 unused Assets / (0.9 MB). Loaded Objects now: 3830.
+Memory consumption went from 102.4 MB to 101.5 MB.
+Total: 13.904100 ms (FindLiveObjects: 0.560300 ms CreateObjectMapping: 1.029300 ms MarkObjects: 10.777600 ms  DeleteObjects: 1.535500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 488098.262975 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(98add1bd2739acd42a52165e67d4ba3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(98add1bd2739acd42a52165e67d4ba3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4af58e8de13b5083530659e86fc0511c') in 0.008428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Scripts/FSM
+  artifactKey: Guid(e7655256aa2a5fa429b9b1af4b14e7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM using Guid(e7655256aa2a5fa429b9b1af4b14e7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1d85c682592a37cd3766c06c3ce14ab') in 0.0006867 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Scripts/FSM/FSM.asset
+  artifactKey: Guid(b4a2340823d80314b9854f9320fddecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/FSM.asset using Guid(b4a2340823d80314b9854f9320fddecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '546446e616cd7b55421e96b10dea5995') in 0.0241502 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (0.9 MB). Loaded Objects now: 3833.
+Memory consumption went from 99.7 MB to 98.8 MB.
+Total: 11.412100 ms (FindLiveObjects: 0.649100 ms CreateObjectMapping: 0.707700 ms MarkObjects: 8.885500 ms  DeleteObjects: 1.169000 ms)
+>>>>>>> Josua
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 20799.642940 seconds.
   path: Assets/Scripts/FSM/State/Testscripts.cs
   artifactKey: Guid(2f6075fa1a5077e43914572e03920f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/FSM/State/Testscripts.cs using Guid(2f6075fa1a5077e43914572e03920f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6458b3b53fc5effe5ef34c10a668dbc') in 0.0063839 seconds
+=======
+  Time since last request: 35.686065 seconds.
+  path: Assets/Scripts/FSM/Transition/Transition.cs
+  artifactKey: Guid(2a9a223edf3bfc649aa65ca6bdaa4f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/Transition/Transition.cs using Guid(2a9a223edf3bfc649aa65ca6bdaa4f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd02e491487a2d6fab558e988c857ddf1') in 0.0012272 seconds
+>>>>>>> Josua
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Prepare
+<<<<<<< HEAD
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
@@ -3370,11 +3515,20 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 3251 unused Assets / (0.9 MB). Loaded Objects now: 3833.
 Memory consumption went from 106.2 MB to 105.3 MB.
 Total: 10.799800 ms (FindLiveObjects: 0.575500 ms CreateObjectMapping: 0.707800 ms MarkObjects: 7.829300 ms  DeleteObjects: 1.685800 ms)
+=======
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (0.6 MB). Loaded Objects now: 3833.
+Memory consumption went from 99.7 MB to 99.2 MB.
+Total: 11.655400 ms (FindLiveObjects: 0.496100 ms CreateObjectMapping: 0.705600 ms MarkObjects: 9.123900 ms  DeleteObjects: 1.328500 ms)
+>>>>>>> Josua
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in  0.830 seconds
@@ -6513,17 +6667,594 @@ Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
+=======
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.823 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+>>>>>>> Josua
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Finished resetting the current domain, in  1.172 seconds
 Domain Reload Profiling: 1991ms
 	BeginReloadAssembly (257ms)
+=======
+- Finished resetting the current domain, in  0.835 seconds
+Domain Reload Profiling: 1657ms
+	BeginReloadAssembly (276ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (26ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (435ms)
+		LoadAssemblies (390ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (201ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (178ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (836ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (492ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (347ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3250 unused Assets / (0.9 MB). Loaded Objects now: 3833.
+Memory consumption went from 103.0 MB to 102.1 MB.
+Total: 6.513000 ms (FindLiveObjects: 0.424800 ms CreateObjectMapping: 0.442500 ms MarkObjects: 4.472600 ms  DeleteObjects: 1.172300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (1.0 MB). Loaded Objects now: 3833.
+Memory consumption went from 103.2 MB to 102.2 MB.
+Total: 8.441600 ms (FindLiveObjects: 0.434200 ms CreateObjectMapping: 0.446600 ms MarkObjects: 6.306300 ms  DeleteObjects: 1.252700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (0.8 MB). Loaded Objects now: 3833.
+Memory consumption went from 103.2 MB to 102.4 MB.
+Total: 12.798800 ms (FindLiveObjects: 1.106100 ms CreateObjectMapping: 0.717200 ms MarkObjects: 9.749400 ms  DeleteObjects: 1.224900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (0.9 MB). Loaded Objects now: 3833.
+Memory consumption went from 103.2 MB to 102.3 MB.
+Total: 8.893600 ms (FindLiveObjects: 0.616000 ms CreateObjectMapping: 0.566000 ms MarkObjects: 6.411400 ms  DeleteObjects: 1.299300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (0.9 MB). Loaded Objects now: 3833.
+Memory consumption went from 103.2 MB to 102.3 MB.
+Total: 7.504700 ms (FindLiveObjects: 0.441400 ms CreateObjectMapping: 0.480800 ms MarkObjects: 5.693800 ms  DeleteObjects: 0.887800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (0.7 MB). Loaded Objects now: 3833.
+Memory consumption went from 103.2 MB to 102.4 MB.
+Total: 9.509100 ms (FindLiveObjects: 0.593700 ms CreateObjectMapping: 0.889500 ms MarkObjects: 7.127500 ms  DeleteObjects: 0.897500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.784 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.816 seconds
+Domain Reload Profiling: 1600ms
+	BeginReloadAssembly (250ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (420ms)
+		LoadAssemblies (382ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (180ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (162ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (817ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (504ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (396ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3250 unused Assets / (1.1 MB). Loaded Objects now: 3833.
+Memory consumption went from 104.9 MB to 103.8 MB.
+Total: 10.106200 ms (FindLiveObjects: 0.511800 ms CreateObjectMapping: 0.416500 ms MarkObjects: 7.494200 ms  DeleteObjects: 1.682600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (0.8 MB). Loaded Objects now: 3833.
+Memory consumption went from 105.1 MB to 104.3 MB.
+Total: 9.186600 ms (FindLiveObjects: 0.779000 ms CreateObjectMapping: 0.660500 ms MarkObjects: 6.442000 ms  DeleteObjects: 1.304200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.847 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.777 seconds
+Domain Reload Profiling: 1624ms
+	BeginReloadAssembly (263ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (463ms)
+		LoadAssemblies (411ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (209ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (188ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (778ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (472ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (361ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3250 unused Assets / (0.9 MB). Loaded Objects now: 3833.
+Memory consumption went from 106.9 MB to 106.0 MB.
+Total: 5.777300 ms (FindLiveObjects: 0.445200 ms CreateObjectMapping: 0.408900 ms MarkObjects: 3.978700 ms  DeleteObjects: 0.943700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (1.0 MB). Loaded Objects now: 3833.
+Memory consumption went from 107.1 MB to 106.1 MB.
+Total: 9.812900 ms (FindLiveObjects: 0.506900 ms CreateObjectMapping: 0.725300 ms MarkObjects: 6.774400 ms  DeleteObjects: 1.805000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.745 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.828 seconds
+Domain Reload Profiling: 1573ms
+	BeginReloadAssembly (246ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (8ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (400ms)
+		LoadAssemblies (350ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (189ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (169ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (828ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (512ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (43ms)
+			ProcessInitializeOnLoadAttributes (409ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3250 unused Assets / (0.9 MB). Loaded Objects now: 3833.
+Memory consumption went from 108.8 MB to 107.9 MB.
+Total: 7.322500 ms (FindLiveObjects: 0.584100 ms CreateObjectMapping: 0.574100 ms MarkObjects: 5.013300 ms  DeleteObjects: 1.149600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3245 unused Assets / (1.0 MB). Loaded Objects now: 3833.
+Memory consumption went from 109.0 MB to 108.0 MB.
+Total: 11.357000 ms (FindLiveObjects: 0.686300 ms CreateObjectMapping: 0.757500 ms MarkObjects: 8.174700 ms  DeleteObjects: 1.736900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.767 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.769 seconds
+Domain Reload Profiling: 1536ms
+	BeginReloadAssembly (241ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (416ms)
+		LoadAssemblies (363ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (188ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (170ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (770ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (466ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (369ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3250 unused Assets / (0.8 MB). Loaded Objects now: 3833.
+Memory consumption went from 110.7 MB to 109.9 MB.
+Total: 7.825200 ms (FindLiveObjects: 0.530100 ms CreateObjectMapping: 0.587800 ms MarkObjects: 5.415800 ms  DeleteObjects: 1.290300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (1.0 MB). Loaded Objects now: 3834.
+Memory consumption went from 110.9 MB to 109.9 MB.
+Total: 8.411000 ms (FindLiveObjects: 0.547200 ms CreateObjectMapping: 0.681500 ms MarkObjects: 5.777100 ms  DeleteObjects: 1.403600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.937 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.951 seconds
+Domain Reload Profiling: 1887ms
+	BeginReloadAssembly (287ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (32ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (501ms)
+		LoadAssemblies (441ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (198ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (952ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (603ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (456ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3251 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 112.7 MB to 111.7 MB.
+Total: 9.989800 ms (FindLiveObjects: 0.796300 ms CreateObjectMapping: 1.349300 ms MarkObjects: 6.430900 ms  DeleteObjects: 1.411600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (0.8 MB). Loaded Objects now: 3834.
+Memory consumption went from 112.9 MB to 112.0 MB.
+Total: 9.112600 ms (FindLiveObjects: 0.716300 ms CreateObjectMapping: 0.649100 ms MarkObjects: 6.495500 ms  DeleteObjects: 1.250000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1861.325239 seconds.
+  path: Assets/Scripts/FSM/Brain.cs
+  artifactKey: Guid(594c7c32696b39349b589fd8cbe272c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FSM/Brain.cs using Guid(594c7c32696b39349b589fd8cbe272c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9869120debbb720c7c8f78b154a6952a') in 0.0160906 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (0.7 MB). Loaded Objects now: 3834.
+Memory consumption went from 112.9 MB to 112.1 MB.
+Total: 17.297700 ms (FindLiveObjects: 0.614000 ms CreateObjectMapping: 0.755600 ms MarkObjects: 14.951300 ms  DeleteObjects: 0.975700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 112.9 MB to 111.9 MB.
+Total: 11.312300 ms (FindLiveObjects: 0.512300 ms CreateObjectMapping: 0.805600 ms MarkObjects: 8.499300 ms  DeleteObjects: 1.493700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  3.467 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.798 seconds
+Domain Reload Profiling: 4265ms
+	BeginReloadAssembly (295ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (67ms)
+	RebuildCommonClasses (57ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (3049ms)
+		LoadAssemblies (2988ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (228ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (203ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (798ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (516ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (396ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3251 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 114.6 MB to 113.7 MB.
+Total: 7.913000 ms (FindLiveObjects: 0.496500 ms CreateObjectMapping: 0.573000 ms MarkObjects: 5.360800 ms  DeleteObjects: 1.481800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (0.7 MB). Loaded Objects now: 3834.
+Memory consumption went from 114.8 MB to 114.1 MB.
+Total: 10.989700 ms (FindLiveObjects: 1.353000 ms CreateObjectMapping: 0.851700 ms MarkObjects: 7.405100 ms  DeleteObjects: 1.378200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.869 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.835 seconds
+Domain Reload Profiling: 1704ms
+	BeginReloadAssembly (233ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (520ms)
+		LoadAssemblies (384ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (256ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (235ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (835ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (552ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (454ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3251 unused Assets / (1.1 MB). Loaded Objects now: 3834.
+Memory consumption went from 116.5 MB to 115.5 MB.
+Total: 7.382500 ms (FindLiveObjects: 0.595600 ms CreateObjectMapping: 0.870400 ms MarkObjects: 4.874400 ms  DeleteObjects: 1.040900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 116.7 MB to 115.8 MB.
+Total: 8.597400 ms (FindLiveObjects: 0.501900 ms CreateObjectMapping: 0.593900 ms MarkObjects: 6.094200 ms  DeleteObjects: 1.406300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.732 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.833 seconds
+Domain Reload Profiling: 1571ms
+	BeginReloadAssembly (248ms)
+>>>>>>> Josua
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 		CreateAndSetChildDomain (58ms)
 	RebuildCommonClasses (52ms)
 	RebuildNativeTypeToScriptingClass (24ms)
@@ -6556,6 +7287,50 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 3251 unused Assets / (0.6 MB). Loaded Objects now: 3833.
 Memory consumption went from 111.3 MB to 110.7 MB.
 Total: 10.856700 ms (FindLiveObjects: 0.735400 ms CreateObjectMapping: 0.667300 ms MarkObjects: 8.097100 ms  DeleteObjects: 1.355600 ms)
+=======
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (384ms)
+		LoadAssemblies (347ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (164ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (146ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (834ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (474ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (359ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3251 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 118.5 MB to 117.6 MB.
+Total: 6.233100 ms (FindLiveObjects: 0.508600 ms CreateObjectMapping: 0.413700 ms MarkObjects: 4.377200 ms  DeleteObjects: 0.932500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 118.7 MB to 117.8 MB.
+Total: 10.325800 ms (FindLiveObjects: 0.707100 ms CreateObjectMapping: 0.695500 ms MarkObjects: 7.649200 ms  DeleteObjects: 1.272400 ms)
+>>>>>>> Josua
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
@@ -6569,6 +7344,7 @@ Number of updated asset objects reloaded before import = 0Number of asset object
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in  0.821 seconds
@@ -8114,10 +8890,17 @@ Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
+=======
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.115 seconds
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+>>>>>>> Josua
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Finished resetting the current domain, in  1.199 seconds
 Domain Reload Profiling: 2020ms
 	BeginReloadAssembly (259ms)
@@ -8157,21 +8940,72 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 3251 unused Assets / (1.0 MB). Loaded Objects now: 3836.
 Memory consumption went from 114.0 MB to 113.0 MB.
 Total: 10.788000 ms (FindLiveObjects: 0.551700 ms CreateObjectMapping: 0.751500 ms MarkObjects: 7.883900 ms  DeleteObjects: 1.599200 ms)
+=======
+- Finished resetting the current domain, in  0.887 seconds
+Domain Reload Profiling: 2004ms
+	BeginReloadAssembly (328ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (78ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (648ms)
+		LoadAssemblies (553ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (275ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (250ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (888ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (548ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (434ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3251 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 120.4 MB to 119.5 MB.
+Total: 5.872800 ms (FindLiveObjects: 0.441500 ms CreateObjectMapping: 0.677900 ms MarkObjects: 3.867100 ms  DeleteObjects: 0.885400 ms)
+>>>>>>> Josua
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Prepare
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 3246 unused Assets / (1.0 MB). Loaded Objects now: 3836.
 Memory consumption went from 114.2 MB to 113.2 MB.
 Total: 9.993300 ms (FindLiveObjects: 0.560200 ms CreateObjectMapping: 0.728700 ms MarkObjects: 7.390000 ms  DeleteObjects: 1.312400 ms)
+=======
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3246 unused Assets / (0.9 MB). Loaded Objects now: 3834.
+Memory consumption went from 120.6 MB to 119.7 MB.
+Total: 8.148100 ms (FindLiveObjects: 0.668300 ms CreateObjectMapping: 0.506000 ms MarkObjects: 5.925000 ms  DeleteObjects: 1.045700 ms)
+>>>>>>> Josua
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in  0.832 seconds
@@ -9717,10 +10551,17 @@ Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
 Assertion failed on expression: 'pred(*previous, *i)'
+=======
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.793 seconds
+Refreshing native plugins compatible for Editor in 1.61 ms, found 3 plugins.
+>>>>>>> Josua
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Finished resetting the current domain, in  0.905 seconds
 Domain Reload Profiling: 1737ms
 	BeginReloadAssembly (260ms)
@@ -9760,5 +10601,46 @@ Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 3251 unused Assets / (0.9 MB). Loaded Objects now: 3836.
 Memory consumption went from 116.6 MB to 115.6 MB.
 Total: 10.270900 ms (FindLiveObjects: 0.599900 ms CreateObjectMapping: 0.708600 ms MarkObjects: 7.532500 ms  DeleteObjects: 1.428700 ms)
+=======
+- Finished resetting the current domain, in  0.812 seconds
+Domain Reload Profiling: 1604ms
+	BeginReloadAssembly (252ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (433ms)
+		LoadAssemblies (380ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (195ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (175ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (812ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (492ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (376ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3251 unused Assets / (0.8 MB). Loaded Objects now: 3834.
+Memory consumption went from 122.4 MB to 121.6 MB.
+Total: 7.052700 ms (FindLiveObjects: 0.456100 ms CreateObjectMapping: 0.507200 ms MarkObjects: 5.147600 ms  DeleteObjects: 0.940600 ms)
+>>>>>>> Josua
 
 Prepare: number of updated asset objects reloaded= 0

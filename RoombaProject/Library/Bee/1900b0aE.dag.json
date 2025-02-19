@@ -419,8 +419,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
-      "PayloadLength": 47,
-      "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -435,7 +435,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 247,
+      "PayloadOffset": 248,
       "PayloadLength": 49740,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -452,9 +452,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 50081,
-      "PayloadLength": 60,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+      "PayloadOffset": 50082,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -3926,7 +3926,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 50244,
+      "PayloadOffset": 50246,
       "PayloadLength": 9669,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4304,9 +4304,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 60018,
-      "PayloadLength": 47,
-      "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+      "PayloadOffset": 60020,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -4321,7 +4321,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 60150,
+      "PayloadOffset": 60153,
       "PayloadLength": 43764,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -4338,9 +4338,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 104000,
-      "PayloadLength": 60,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+      "PayloadOffset": 104003,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -5287,7 +5287,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 104155,
+      "PayloadOffset": 104159,
       "PayloadLength": 10555,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5695,9 +5695,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 114823,
-      "PayloadLength": 47,
-      "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+      "PayloadOffset": 114827,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -5712,7 +5712,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 114963,
+      "PayloadOffset": 114968,
       "PayloadLength": 59798,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -5729,9 +5729,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 174855,
-      "PayloadLength": 60,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+      "PayloadOffset": 174860,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -6738,7 +6738,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 175018,
+      "PayloadOffset": 175024,
       "PayloadLength": 10183,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7134,9 +7134,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 185306,
-      "PayloadLength": 47,
-      "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+      "PayloadOffset": 185312,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -7151,7 +7151,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 185438,
+      "PayloadOffset": 185445,
       "PayloadLength": 40622,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -7168,9 +7168,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 226146,
-      "PayloadLength": 60,
-      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+      "PayloadOffset": 226153,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -7870,7 +7870,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 226301,
+      "PayloadOffset": 226309,
       "PayloadLength": 10881,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8290,9 +8290,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 237316,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 237324,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -8307,7 +8313,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 237477,
+=======
+      "PayloadOffset": 237486,
+>>>>>>> Josua
       "PayloadLength": 38442,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -8324,9 +8334,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 276034,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 276043,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -8948,7 +8964,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 276218,
+=======
+      "PayloadOffset": 276228,
+>>>>>>> Josua
       "PayloadLength": 10957,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9371,9 +9391,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 287285,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 287295,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9388,7 +9414,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 287422,
+=======
+      "PayloadOffset": 287433,
+>>>>>>> Josua
       "PayloadLength": 36794,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -9405,9 +9435,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 324307,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 324318,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9984,7 +10020,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 324467,
+=======
+      "PayloadOffset": 324479,
+>>>>>>> Josua
       "PayloadLength": 10707,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10398,9 +10438,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 335294,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 335306,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -10415,7 +10461,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 335441,
+=======
+      "PayloadOffset": 335454,
+>>>>>>> Josua
       "PayloadLength": 37856,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -10432,9 +10482,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 373398,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 373411,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -11021,7 +11077,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 373568,
+=======
+      "PayloadOffset": 373582,
+>>>>>>> Josua
       "PayloadLength": 10957,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11444,9 +11504,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 384657,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 384671,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -11461,7 +11527,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 384816,
+=======
+      "PayloadOffset": 384831,
+>>>>>>> Josua
       "PayloadLength": 40629,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -11478,9 +11548,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 425558,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 425573,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12125,7 +12201,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 425740,
+=======
+      "PayloadOffset": 425756,
+>>>>>>> Josua
       "PayloadLength": 10957,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12548,9 +12628,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 436811,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 436827,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12565,7 +12651,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 436952,
+=======
+      "PayloadOffset": 436969,
+>>>>>>> Josua
       "PayloadLength": 69047,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -12582,9 +12672,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 506094,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 506111,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -13823,7 +13919,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 506258,
+=======
+      "PayloadOffset": 506276,
+>>>>>>> Josua
       "PayloadLength": 10506,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14231,9 +14331,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 516873,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 516891,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14248,7 +14354,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 517009,
+=======
+      "PayloadOffset": 517028,
+>>>>>>> Josua
       "PayloadLength": 40200,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -14265,9 +14375,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 557299,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 557318,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14908,7 +15024,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 557458,
+=======
+      "PayloadOffset": 557478,
+>>>>>>> Josua
       "PayloadLength": 10419,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15313,9 +15433,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 567989,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 568009,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -15330,7 +15456,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 568128,
+=======
+      "PayloadOffset": 568149,
+>>>>>>> Josua
       "PayloadLength": 38572,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -15347,9 +15477,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 606793,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 606814,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -15954,7 +16090,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 606955,
+=======
+      "PayloadOffset": 606977,
+>>>>>>> Josua
       "PayloadLength": 10957,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16377,9 +16517,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 618054,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 618076,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -16394,7 +16540,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 618223,
+=======
+      "PayloadOffset": 618246,
+>>>>>>> Josua
       "PayloadLength": 39333,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -16411,9 +16561,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 657679,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 657702,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17022,7 +17178,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 657871,
+=======
+      "PayloadOffset": 657895,
+>>>>>>> Josua
       "PayloadLength": 10957,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17445,9 +17605,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 668980,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 669004,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17462,7 +17628,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 669159,
+=======
+      "PayloadOffset": 669184,
+>>>>>>> Josua
       "PayloadLength": 38106,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -17479,9 +17649,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 707398,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 707423,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -18068,7 +18244,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 707600,
+=======
+      "PayloadOffset": 707626,
+>>>>>>> Josua
       "PayloadLength": 10957,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -18491,9 +18671,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 718665,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 718691,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -18508,7 +18694,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 718800,
+=======
+      "PayloadOffset": 718827,
+>>>>>>> Josua
       "PayloadLength": 40964,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -18525,9 +18715,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 759853,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 759880,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -19212,7 +19408,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 760011,
+=======
+      "PayloadOffset": 760039,
+>>>>>>> Josua
       "PayloadLength": 10707,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -19626,9 +19826,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 770823,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 770851,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -19643,7 +19849,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 770955,
+=======
+      "PayloadOffset": 770984,
+>>>>>>> Josua
       "PayloadLength": 42511,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -19660,9 +19870,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 813552,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 813581,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -20371,7 +20587,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 813707,
+=======
+      "PayloadOffset": 813737,
+>>>>>>> Josua
       "PayloadLength": 10707,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20785,9 +21005,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 824531,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 824561,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -20802,7 +21028,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 824675,
+=======
+      "PayloadOffset": 824706,
+>>>>>>> Josua
       "PayloadLength": 90114,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -20819,9 +21049,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 914887,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 914918,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22238,7 +22474,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 915054,
+=======
+      "PayloadOffset": 915086,
+>>>>>>> Josua
       "PayloadLength": 10707,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -22652,9 +22892,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 925877,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 925909,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22669,7 +22915,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 926020,
+=======
+      "PayloadOffset": 926053,
+>>>>>>> Josua
       "PayloadLength": 40486,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -22686,9 +22936,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 966603,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 966636,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -23339,7 +23595,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 966769,
+=======
+      "PayloadOffset": 966803,
+>>>>>>> Josua
       "PayloadLength": 10419,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -23744,9 +24004,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 977305,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 977339,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -23761,7 +24027,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 977449,
+=======
+      "PayloadOffset": 977484,
+>>>>>>> Josua
       "PayloadLength": 38497,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -23778,9 +24048,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1016044,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1016079,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24435,7 +24711,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1016211,
+=======
+      "PayloadOffset": 1016247,
+>>>>>>> Josua
       "PayloadLength": 11143,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -24864,9 +25144,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1027469,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1027505,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24881,7 +25167,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1027611,
+=======
+      "PayloadOffset": 1027648,
+>>>>>>> Josua
       "PayloadLength": 37640,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -24898,9 +25188,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1065347,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1065384,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -25509,7 +25805,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1065512,
+=======
+      "PayloadOffset": 1065550,
+>>>>>>> Josua
       "PayloadLength": 11042,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -25935,9 +26235,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1076680,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1076718,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -25952,7 +26258,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1076833,
+=======
+      "PayloadOffset": 1076872,
+>>>>>>> Josua
       "PayloadLength": 41888,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -25969,9 +26279,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1118828,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1118867,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -26714,7 +27030,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1119004,
+=======
+      "PayloadOffset": 1119044,
+>>>>>>> Josua
       "PayloadLength": 10738,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -27128,9 +27448,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1129857,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1129897,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -27145,7 +27471,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1129999,
+=======
+      "PayloadOffset": 1130040,
+>>>>>>> Josua
       "PayloadLength": 42384,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -27162,9 +27492,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1172479,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1172520,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -27881,7 +28217,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1172644,
+=======
+      "PayloadOffset": 1172686,
+>>>>>>> Josua
       "PayloadLength": 11036,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -28307,9 +28647,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1183792,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1183834,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -28324,7 +28670,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1183931,
+=======
+      "PayloadOffset": 1183974,
+>>>>>>> Josua
       "PayloadLength": 61855,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -28341,9 +28691,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1245879,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1245922,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -29494,7 +29850,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1246041,
+=======
+      "PayloadOffset": 1246085,
+>>>>>>> Josua
       "PayloadLength": 11033,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -29920,9 +30280,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1257198,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1257242,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -29937,7 +30303,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1257349,
+=======
+      "PayloadOffset": 1257394,
+>>>>>>> Josua
       "PayloadLength": 94520,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -29954,9 +30324,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1351974,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1352019,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -31503,7 +31879,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1352148,
+=======
+      "PayloadOffset": 1352194,
+>>>>>>> Josua
       "PayloadLength": 11045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -31929,9 +32309,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1363310,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1363356,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -31946,7 +32332,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1363454,
+=======
+      "PayloadOffset": 1363501,
+>>>>>>> Josua
       "PayloadLength": 85643,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -31963,9 +32353,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1449195,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1449242,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33335,7 +33731,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1449362,
+=======
+      "PayloadOffset": 1449410,
+>>>>>>> Josua
       "PayloadLength": 10795,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -33752,9 +34152,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1460275,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1460323,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33769,7 +34175,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1460420,
+=======
+      "PayloadOffset": 1460469,
+>>>>>>> Josua
       "PayloadLength": 38390,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -33786,9 +34196,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1498909,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1498958,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34415,7 +34831,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1499077,
+=======
+      "PayloadOffset": 1499127,
+>>>>>>> Josua
       "PayloadLength": 11231,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -34847,9 +35267,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1510432,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1510482,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34864,7 +35290,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1510583,
+=======
+      "PayloadOffset": 1510634,
+>>>>>>> Josua
       "PayloadLength": 57971,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -34881,9 +35311,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1568659,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1568710,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -35857,7 +36293,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1568833,
+=======
+      "PayloadOffset": 1568885,
+>>>>>>> Josua
       "PayloadLength": 11228,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -36289,9 +36729,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1580179,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1580231,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -36306,7 +36752,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1580324,
+=======
+      "PayloadOffset": 1580377,
+>>>>>>> Josua
       "PayloadLength": 39647,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -36323,9 +36773,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1620070,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1620123,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -36956,7 +37412,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1620238,
+=======
+      "PayloadOffset": 1620292,
+>>>>>>> Josua
       "PayloadLength": 10883,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -37376,9 +37836,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1631257,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1631311,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -37393,7 +37859,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1631420,
+=======
+      "PayloadOffset": 1631475,
+>>>>>>> Josua
       "PayloadLength": 38997,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -37410,9 +37880,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1670534,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1670589,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -38074,7 +38550,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1670720,
+=======
+      "PayloadOffset": 1670776,
+>>>>>>> Josua
       "PayloadLength": 11412,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -38512,9 +38992,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1682257,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1682313,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -38529,7 +39015,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1682409,
+=======
+      "PayloadOffset": 1682466,
+>>>>>>> Josua
       "PayloadLength": 45954,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -38546,9 +39036,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1728469,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1728526,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -39278,7 +39774,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1728644,
+=======
+      "PayloadOffset": 1728702,
+>>>>>>> Josua
       "PayloadLength": 11412,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -39716,9 +40216,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1740182,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1740240,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -39733,7 +40239,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1740335,
+=======
+      "PayloadOffset": 1740394,
+>>>>>>> Josua
       "PayloadLength": 38100,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -39750,9 +40260,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1778542,
       "PayloadLength": 60,
       "PayloadDebugContentSnippet": "/pathmap:\"D:\\Julio\\Github\\Unit",
+=======
+      "PayloadOffset": 1778601,
+      "PayloadLength": 61,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Josua\\UnityProjec",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -40376,7 +40892,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1778718,
+=======
+      "PayloadOffset": 1778778,
+>>>>>>> Josua
       "PayloadLength": 11508,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -40817,9 +41337,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1790332,
       "PayloadLength": 47,
       "PayloadDebugContentSnippet": "D:\\Julio\\Github\\Unity\\RommbaUn",
+=======
+      "PayloadOffset": 1790392,
+      "PayloadLength": 48,
+      "PayloadDebugContentSnippet": "D:\\Josua\\UnityProjects\\RoombaU",
+>>>>>>> Josua
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -40834,8 +41360,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1790465,
       "PayloadLength": 37100,
+=======
+      "PayloadOffset": 1790526,
+      "PayloadLength": 37088,
+>>>>>>> Josua
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -40851,7 +41382,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1827652,
+=======
+      "PayloadOffset": 1827701,
+>>>>>>> Josua
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -41132,11 +41667,18 @@
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
+<<<<<<< HEAD
+=======
+        "Assets/Scripts/FSM/Brain.cs",
+>>>>>>> Josua
         "Assets/Scripts/FSM/FSM.cs",
         "Assets/Scripts/FSM/State/CleaningState.cs",
         "Assets/Scripts/FSM/State/IdleState.cs",
         "Assets/Scripts/FSM/State/State.cs",
+<<<<<<< HEAD
         "Assets/Scripts/FSM/State/Testscripts.cs",
+=======
+>>>>>>> Josua
         "Assets/Scripts/FSM/Transition/Transition.cs",
         "Assets/Scripts/SpawnerSpot.cs",
         "Assets/Scripts/Spot.cs",
@@ -41731,7 +42273,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1827748,
+=======
+      "PayloadOffset": 1827797,
+>>>>>>> Josua
       "PayloadLength": 12136,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -43491,7 +44037,11 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "Extracting script serialization layouts",
+<<<<<<< HEAD
       "Action": "\"C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\\nunit.framework.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\ScriptAssemblies\" -s=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\" -s=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+=======
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\\nunit.framework.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\ScriptAssemblies\" -s=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\" -s=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"D:\\Josua\\UnityProjects\\RoombaUnity\\RoombaProject\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+>>>>>>> Josua
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -43812,6 +44362,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "D:/Julio/Github/Unity/RommbaUnity/RoombaProject/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "D:/Josua/UnityProjects/RoombaUnity/RoombaProject/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

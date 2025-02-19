@@ -17,7 +17,10 @@ public class CleaningState : State
     }
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Josua
     public override void Update()
     {
         if (!agent) return;

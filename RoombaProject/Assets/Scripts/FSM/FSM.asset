@@ -12,3 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d573e5fda9f3a7946b585c959f37e3ea, type: 3}
   m_Name: FSM
   m_EditorClassIdentifier: 
+  currentState: {fileID: 11400000, guid: 73ac10bd43f0b7c44a1ccf8916fcb017, type: 2}
