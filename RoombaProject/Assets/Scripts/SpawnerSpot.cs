@@ -5,6 +5,7 @@ using UnityEngine;
 public class SpawnerSpot : MonoBehaviour
 {
     // Start is called before the first frame update
+    [SerializeField] GameObject spotToSpawn = null;
     void Start()
     {
         Init();
@@ -25,5 +26,10 @@ public class SpawnerSpot : MonoBehaviour
     void SpawnSpot()
     {
         //Spot spot = GameObject.Instantiate<Spot>()
+        int _randomX = Random.Range(0, 15);
+        int _randomZ = Random.Range(0, 15);
+
+        Vector3 _randomPosition = new Vector3(_randomX , 0 , _randomZ);
+        Instantiate(spotToSpawn, _randomPosition, Quaternion.identity);
     }
 }
