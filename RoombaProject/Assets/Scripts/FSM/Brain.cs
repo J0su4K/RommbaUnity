@@ -33,20 +33,20 @@ public class Brain : MonoBehaviour
         fsm.SetNextState(_clean);
     }
 
-    void InitScriptable()
-    {
-        // LayerMask.
-        cleaningState = ScriptableObject.CreateInstance<CleaningState>();
-        if(cleaningState == null )
-        {
-            Debug.Log("NO STATE !!!!");
-        }
-        string _path = "assets/item.asset";
-        AssetDatabase.CreateAsset(cleaningState, _path);
-        AssetDatabase.SaveAssets();
+    //void InitScriptable()
+    //{
+    //    // LayerMask.
+    //    cleaningState = ScriptableObject.CreateInstance<CleaningState>();
+    //    if(cleaningState == null )
+    //    {
+    //        Debug.Log("NO STATE !!!!");
+    //    }
+    //    string _path = "assets/item.asset";
+    //    AssetDatabase.CreateAsset(cleaningState, _path);
+    //    AssetDatabase.SaveAssets();
 
 
-        cleaningState.LayerToDetect = LayerMask.NameToLayer("Spot");
-        Debug.Log(LayerMask.LayerToName(cleaningState.LayerToDetect));
-    }
+    //    cleaningState.LayerToDetect = LayerMask.NameToLayer("Spot");
+    //    Debug.Log(LayerMask.LayerToName(cleaningState.LayerToDetect));
+    //}
 }

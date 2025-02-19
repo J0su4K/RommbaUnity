@@ -52,7 +52,7 @@ public class CleaningState : State
 
     bool IsAtDestination()
     {
-        return Vector3.Distance(agent.transform.position, currentTarget.transform.position) < 0.5f;
+        return Vector3.Distance(agent.transform.position, currentTarget.transform.position) < 2f;
     }
 
     public GameObject FindFirstObjectWithLayer()

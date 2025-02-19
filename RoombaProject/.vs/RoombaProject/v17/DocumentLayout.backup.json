@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\state\\cleaningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\state\\cleaningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|d:\\julio\\github\\unity\\rommbaunity\\roombaproject\\assets\\scripts\\fsm\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\state\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\state\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\SpawnerSpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\SpawnerSpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\state\\cleaningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\state\\cleaningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\state\\testscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\state\\testscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\state\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\state\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\assets\\scripts\\fsm\\state\\testscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm\\state\\testscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\SpawnerSpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE2C69D5-27A6-51B5-28D2-49CFB8D2E89D}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\SpawnerSpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Testscripts.cs",
               "DocumentMoniker": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\State\\Testscripts.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\State\\Testscripts.cs",
               "ToolTip": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\State\\Testscripts.cs",
               "RelativeToolTip": "Assets\\Scripts\\FSM\\State\\Testscripts.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T19:05:55.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Brain.cs",
               "DocumentMoniker": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\Brain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\Brain.cs",
               "ToolTip": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\Brain.cs",
               "RelativeToolTip": "Assets\\Scripts\\FSM\\Brain.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T15:23:48.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CleaningState.cs",
               "DocumentMoniker": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\State\\CleaningState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\State\\CleaningState.cs",
               "ToolTip": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\State\\CleaningState.cs",
               "RelativeToolTip": "Assets\\Scripts\\FSM\\State\\CleaningState.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswEcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T15:18:34.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IdleState.cs",
               "DocumentMoniker": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\State\\IdleState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\State\\IdleState.cs",
@@ -89,12 +89,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FSM\\State\\IdleState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:15:19.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:15:19.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "State.cs",
               "DocumentMoniker": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\State\\State.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\State\\State.cs",
@@ -102,12 +101,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FSM\\State\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:12:07.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:12:07.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FSM.cs",
               "DocumentMoniker": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\FSM\\FSM.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM\\FSM.cs",
@@ -115,18 +113,17 @@
               "RelativeToolTip": "Assets\\Scripts\\FSM\\FSM.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:41:13.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:41:13.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "SpawnerSpot.cs",
               "DocumentMoniker": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\SpawnerSpot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerSpot.cs",
               "ToolTip": "D:\\Julio\\Github\\Unity\\RommbaUnity\\RoombaProject\\Assets\\Scripts\\SpawnerSpot.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnerSpot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T13:49:31.925Z",
               "EditorCaption": ""

@@ -17,5 +17,5 @@ MonoBehaviour:
   currentTarget: {fileID: 0}
   layerToDetect:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 0
   canNextState: 0
