@@ -17,6 +17,5 @@ MonoBehaviour:
   currentTarget: {fileID: 0}
   layerToDetect:
     serializedVersion: 2
-    m_Bits: 0
-  test: 12
-  spot: {fileID: 7006255406222616416, guid: 3b0821c7a6289cc41ae6ead9a9aed26a, type: 3}
+    m_Bits: 8
+  canNextState: 0

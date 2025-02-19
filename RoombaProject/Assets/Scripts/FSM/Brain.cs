@@ -11,7 +11,7 @@ public class Brain : MonoBehaviour
     [SerializeField] CleaningState cleaningState = null;
     void Start()
     {
-        InitScriptable();
+        // InitScriptable();
         Init();
     }
 
@@ -28,9 +28,8 @@ public class Brain : MonoBehaviour
         CleaningState _clean = new CleaningState(gameObject);
 
         fsm = new FSM();
-        //fsm.AddTransitions(_idle , _clean , /*Si le clean state a une target */ () => _clean.CurrentTarget);
-        //fsm.AddTransitions(_clean , _idle , /*Si le */() => !_clean.CurrentTarget);
-
+        fsm.AddTransitions(_idle, _clean, /*Si le clean state a une target */ () => _clean.FindFirstObjectWithLayer());
+        fsm.AddTransitions(_clean, _idle, /*Si le */() => _clean.CanNextState);
         fsm.SetNextState(_clean);
     }
 

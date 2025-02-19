@@ -1,33 +1,33 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewItem", menuName = "State/Idle State")]
+[CreateAssetMenu(fileName = "IdleState", menuName = "State/Idle State")]
 public class IdleState : State
 {
-    [SerializeField] float wait = 3.0f;
-    [SerializeField] bool isWaiting = false;
+    [SerializeField] private float wait = 3.0f;
+    private float waitTimer;
+    private bool isIdleFinished = false;
+
+    public bool IsIdleFinished => isIdleFinished;
 
     public IdleState(GameObject _owner) : base(_owner)
     {
-     owner = _owner;
+        owner = _owner;
     }
 
-    public float Wait => wait;
-    public bool IsWaiting => isWaiting;
     public override void Start()
     {
         Debug.Log("Entering Idle State");
+        waitTimer = wait; // Initialise le timer
+        isIdleFinished = false;
     }
 
-    public override void Update() 
+    public override void Update()
     {
-        Debug.Log("Update Idle State");
-    }
-
-
-    public override void Exit()
-    {
-
+        waitTimer -= Time.deltaTime; // Diminue le timer
+        if (waitTimer <= 0 && !isIdleFinished)
+        {
+            isIdleFinished = true;
+            Debug.Log("Idle terminé, prêt à nettoyer !");
+        }
     }
 }
