@@ -27,6 +27,16 @@ public class CleaningState : State
             return;
         }
         agent.SetDestination(currentTarget.transform.position);
+        if (IsAtDestination())
+        {
+            Destroy(currentTarget);
+            currentTarget = null;
+        }
+    }
+
+    bool IsAtDestination()
+    {
+        return Vector3.Distance(agent.transform.position, currentTarget.transform.position) < 0.5f;
     }
 
     GameObject FindFirstObjectWithLayer()

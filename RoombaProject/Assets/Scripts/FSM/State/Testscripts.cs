@@ -9,22 +9,33 @@ public class Testscripts : MonoBehaviour
     [SerializeField] GameObject currentTarget = null;
     [SerializeField] LayerMask layerToDetect;
 
-
     void Start()
     {
         Debug.Log("Entering Cleaning State");
     }
 
-
     void Update()
     {
         if (!agent) return;
+
         if (!currentTarget)
         {
             FindFirstObjectWithLayer();
             return;
         }
+
         agent.SetDestination(currentTarget.transform.position);
+
+        if (IsAtDestination())
+        {
+            Destroy(currentTarget);
+            currentTarget = null;
+        }
+    }
+
+    bool IsAtDestination()
+    {
+        return Vector3.Distance(agent.transform.position, currentTarget.transform.position) < 0.5f;
     }
 
     GameObject FindFirstObjectWithLayer()
