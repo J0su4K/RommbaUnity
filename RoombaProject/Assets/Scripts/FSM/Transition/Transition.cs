@@ -1,18 +1,18 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Transition : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
+public class Transition
+{
+    public Func<bool> Condition { get; private set; }
+    public State NextState { get; private set; }
+
+
+    public Transition(Func<bool> condition, State nextState)
     {
-        
+        Condition = condition;
+        NextState = nextState;
     }
 }

@@ -18,7 +18,7 @@ public class CleaningState : State
 
     // Update is called once per frame
 
-    void Update()
+    public override void Update()
     {
         if (!agent) return;
         agent.SetDestination(FindFirstObjectWithLayer().transform.position);
