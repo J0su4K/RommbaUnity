@@ -7,34 +7,45 @@ using UnityEngine.AI;
 public class CleaningState : State
 {
     [SerializeField] NavMeshAgent agent = null;
-    [SerializeField] Transform currentTarget = null;
-    [SerializeField] private LayerMask layerToDetect;
+    [SerializeField] GameObject currentTarget = null;
+    [SerializeField] LayerMask layerToDetect;
 
 
-    //void Start()
-    //{
-    //    Debug.Log("Entering Cleaning State");
-    //}
+    public override void Start()
+    {
+        Debug.Log("Entering Cleaning State");
+    }
 
-    // Update is called once per frame
 
-    void Update()
+
+    public override void Update()
     {
         if (!agent) return;
-        agent.SetDestination(FindFirstObjectWithLayer().transform.position);
+        if (!currentTarget)
+        {
+            FindFirstObjectWithLayer();
+            return;
+        }
+        agent.SetDestination(currentTarget.transform.position);
     }
 
     GameObject FindFirstObjectWithLayer()
     {
         GameObject[] _allObjects = GameObject.FindObjectsByType<GameObject>(FindObjectsSortMode.None);
-
         foreach (GameObject obj in _allObjects)
         {
-            if (obj.layer == layerToDetect) 
+            if ((layerToDetect.value & (1 << obj.layer)) != 0)
             {
+                Debug.Log("Trouvé !");
+                currentTarget = obj;
                 return obj;
             }
         }
-        return null; // Aucun objet trouvé
+        return null;
+    }
+
+    public override void Exit()
+    {
+
     }
 }

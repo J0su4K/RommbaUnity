@@ -5,13 +5,18 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewItem", menuName = "State/Idle State")]
 public class IdleState : State
 {
-    protected override void Start()
+    public override void Start()
     {
         Debug.Log("Entering Idle State");
     }
 
-    protected override void Update() 
+    public override void Update() 
     {
         
+    }
+
+    public override void Exit()
+    {
+
     }
 }
