@@ -12,10 +12,6 @@ public class FSM : ScriptableObject
 
     public State CurrentState {  get { return currentState; }  set { currentState = value; } }
 
-
-<<<<<<< HEAD
-    // [SerializeField] Dictionary<State , >
-=======
 public void AddTransitions(State _from , State _to , Func<bool> _condition )
     {
         if(!transitions.ContainsKey(_from))
@@ -27,7 +23,7 @@ public void AddTransitions(State _from , State _to , Func<bool> _condition )
 
     }
 
-    private void SetNextState(State _state)
+    public void SetNextState(State _state)
     {
         if(currentState != null)
         {
@@ -53,7 +49,6 @@ public void AddTransitions(State _from , State _to , Func<bool> _condition )
         currentState.Update();
     }
 
->>>>>>> Josua
     //Va stocker des états (peut etre des transitions)
     //a une list d'etat
     //dans cette liste va recuperer les données des états ? 

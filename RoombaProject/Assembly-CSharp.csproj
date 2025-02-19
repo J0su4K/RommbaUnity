@@ -66,10 +66,7 @@
     <Compile Include="Assets\Scripts\FSM\State\State.cs" />
     <Compile Include="Assets\Scripts\Spot.cs" />
     <Compile Include="Assets\Scripts\SpawnerSpot.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\FSM\State\Testscripts.cs" />
-=======
->>>>>>> Josua
     <Compile Include="Assets\Scripts\FSM\Transition\Transition.cs" />
     <Compile Include="Assets\Scripts\FSM\FSM.cs" />
     <Compile Include="Assets\Scripts\FSM\State\IdleState.cs" />

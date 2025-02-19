@@ -8,6 +8,10 @@ public abstract class State : ScriptableObject
     [SerializeField] protected GameObject owner = null;
     // [SerializeField] FSM fsm = null;
 
+    public State(GameObject _owner)
+    {
+        owner = _owner;
+    }
     public virtual void Start()
     {
         Debug.Log("Entering Base State");

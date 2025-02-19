@@ -5,11 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638755740896808882
-=======
       ticks: 638755740570767279
->>>>>>> Josua
     m_Hash: 482938109
   m_LockFileStatus:
     m_FilePath: D:/Josua/UnityProjects/RoombaUnity/RoombaProject/Packages/packages-lock.json
@@ -17,11 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638755740896818847
-=======
       ticks: 638755740570777250
->>>>>>> Josua
     m_Hash: 2871161811
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -35,11 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.6
   source: 1
-<<<<<<< HEAD
-  resolvedPath: D:\Julio\Github\Unity\RommbaUnity\RoombaProject\Library\PackageCache\com.unity.ai.navigation@2.0.6
-=======
   resolvedPath: D:\Josua\UnityProjects\RoombaUnity\RoombaProject\Library\PackageCache\com.unity.ai.navigation@2.0.6
->>>>>>> Josua
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
